@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard built using the Supersto
 ## 🚀 Key Features
 - KPI Metrics: Total Sales, Profit, Orders, Profit Margin
 - Interactive Filters: Region, Category, Segment, Date
-- Visualizations: Bar Chart, Line Chart, Pie Chart, Map, Scatter Plot
+- Visualizations: Bar Chart, Pie Chart, Map, Scatter Plot
 
 ## 📊 Key Insights
 - West region has the highest sales performance
@@ -15,8 +15,6 @@ This project presents an interactive Power BI dashboard built using the Supersto
 
 ## 🛠️ Tools Used
 - Power BI
-- Excel
-- DAX
 
 ## 📸 Dashboard Preview
 (Add your screenshot here)
