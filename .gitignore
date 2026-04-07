@@ -1,0 +1,21 @@
+# Power BI cache files
+*.pbix.autosave
+*.pbit.autosave
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if used)
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Excel temp files
+~$*.xlsx
