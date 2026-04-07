@@ -16,9 +16,6 @@ This project presents an interactive Power BI dashboard built using the Supersto
 ## 🛠️ Tools Used
 - Power BI
 
-## 📸 Dashboard Preview
-(Add your screenshot here)
-
 ## 📁 Files Included
 - Power BI file (.pbix)
 - Dataset
